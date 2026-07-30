@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.44.0 (2026-07-30)
+
+<!-- Release notes generated using configuration in .github/release.yml at main -->
+
+## What's Changed
+### Features
+* feat(tts): add LMNT as a Voice (TTS) provider by @amaanJvd in https://github.com/dograh-hq/dograh/pull/569
+* feat: add Plivo call transfer support by @arnofrxdd in https://github.com/dograh-hq/dograh/pull/564
+* feat(autoscaling): call-based KEDA autoscaling for web pods + call-safe drain by @anupPradhan0 in https://github.com/dograh-hq/dograh/pull/577
+### Bug Fixes
+* fix(vobiz): synchronize application number bindings by @Piyush-sahoo in https://github.com/dograh-hq/dograh/pull/543
+* fix: use default button style for "Save Organization Configuration" by @Harddiikk in https://github.com/dograh-hq/dograh/pull/582
+* fix(telephony): surface pre-call failures on workflow runs by @a6kme in https://github.com/dograh-hq/dograh/pull/587
+* fix: honor default caller ID for one-off outbound calls by @a6kme in https://github.com/dograh-hq/dograh/pull/593
+
+## New Contributors
+* @Harddiikk made their first contribution in https://github.com/dograh-hq/dograh/pull/582
+* @arnofrxdd made their first contribution in https://github.com/dograh-hq/dograh/pull/564
+* @anupPradhan0 made their first contribution in https://github.com/dograh-hq/dograh/pull/577
+
+**Full Changelog**: https://github.com/dograh-hq/dograh/compare/dograh-v1.43.0...dograh-v1.44.0
+
 ## 1.43.0 (2026-07-25)
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
